@@ -1,5 +1,6 @@
 ## ☕ Java PI: Miniguia Interativo para Iniciantes
 Bem-vindo ao Java PI! Este repositório não é apenas um diário de estudos, mas um miniguia prático projetado para ajudar quem está dando os primeiros passos na linguagem Java.
+## CONFIRA AQUI: https://notebooklm.google.com/notebook/4218dd11-3ede-44d3-97b3-154363ccd335
 
 ## O que você encontra aqui?
 Diferente de uma videoaula tradicional, este guia foca em três pilares para acelerar seu entendimento:
