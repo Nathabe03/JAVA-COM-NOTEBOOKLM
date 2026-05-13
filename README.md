@@ -1,5 +1,5 @@
-## ☕ Java Discovery: Miniguia Interativo para Iniciantes
-Bem-vindo ao Java Discovery! Este repositório não é apenas um diário de estudos, mas um miniguia prático projetado para ajudar quem está dando os primeiros passos na linguagem Java.
+## ☕ Java PI: Miniguia Interativo para Iniciantes
+Bem-vindo ao Java PI! Este repositório não é apenas um diário de estudos, mas um miniguia prático projetado para ajudar quem está dando os primeiros passos na linguagem Java.
 
 ## O que você encontra aqui?
 Diferente de uma videoaula tradicional, este guia foca em três pilares para acelerar seu entendimento:
